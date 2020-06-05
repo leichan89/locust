@@ -7,7 +7,7 @@ import configparser as cp
 from logging.handlers import RotatingFileHandler
 
 
-class Loger():
+class Loger:
 
     _instance_lock = threading.Lock()
 

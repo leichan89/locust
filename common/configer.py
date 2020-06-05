@@ -4,7 +4,7 @@ import configparser as cp
 from common.log import logger
 
 
-class MyConfiger():
+class MyConfiger:
 
     def __init__(self, file=None):
         errmsg = ''
