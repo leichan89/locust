@@ -128,3 +128,4 @@ dmypy.json
 /config/envconf/reg.ini
 /config/envconf/stage.ini
 /config/envconf/test0.ini
+/log/
