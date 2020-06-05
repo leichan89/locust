@@ -1,0 +1,374 @@
+2020-05-28 18:56:09,569 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/prod.ini
+2020-05-28 18:56:09,570 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 18:57:01,655 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/prod.ini
+2020-05-28 18:57:01,656 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 18:58:09,976 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/prod.ini
+2020-05-28 18:58:09,977 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:02:41,539 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:02:41,541 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:04:04,134 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:04:04,136 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:01,590 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:01,591 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:01,695 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:01,697 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:01,796 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:01,797 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:01,897 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:01,898 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:02,003 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:02,004 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:02,103 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:02,104 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:02,205 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:02,206 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:02,306 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:02,306 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:02,406 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:02,407 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:02,507 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:02,509 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:02,608 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:02,609 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:02,714 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:02,716 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:02,816 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:02,820 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:02,916 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:02,917 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:03,019 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:03,020 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:03,120 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:03,121 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:03,230 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:03,230 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:03,329 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:03,330 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:03,433 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:03,434 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:03,544 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:03,544 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:03,637 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:03,638 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:03,747 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:03,754 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:03,848 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:03,852 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:03,951 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:03,952 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:04,048 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:04,049 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:04,151 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:04,151 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:04,275 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:04,277 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:04,375 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:04,376 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:04,466 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:04,467 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:04,655 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:04,676 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:04,717 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:04,718 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:04,816 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:04,818 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:04,943 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:04,945 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:05,048 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:05,054 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:05,155 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:05,159 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:05,272 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:05,275 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:05,382 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:05,385 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:05,487 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:05,488 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:05,602 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:05,605 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:05,729 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:05,730 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:05,818 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:05,819 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:05,946 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:05,957 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:06,054 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:06,055 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:06,160 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:06,162 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:06,281 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:06,285 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:06,378 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:06,379 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:06,493 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:06,494 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:06,627 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:06,627 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:06,709 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:06,711 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:06,809 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:06,810 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:06,913 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:06,913 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:07,014 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:07,015 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:07,126 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:07,127 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:07,231 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:07,231 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:07,348 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:07,350 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:07,438 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:07,439 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:07,552 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:07,553 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:07,660 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:07,661 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:07,761 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:07,762 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:07,896 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:07,898 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:08,064 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:08,065 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:08,186 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:08,192 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:08,291 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:08,292 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:08,428 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:08,429 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:08,533 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:08,533 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:08,700 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:08,700 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:08,800 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:08,803 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:08,930 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:08,931 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:09,049 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:09,050 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:09,161 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:09,162 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:09,280 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:09,282 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:09,381 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:09,381 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:09,483 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:09,484 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:09,610 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:09,611 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:09,785 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:09,787 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:09,872 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:09,873 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:10,079 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:10,080 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:10,195 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:10,196 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:10,301 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:10,302 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:10,420 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:10,423 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:10,532 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:10,534 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:10,651 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:10,653 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:10,793 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:10,794 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:10,862 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:10,863 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:10,973 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:10,974 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:11,130 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:11,131 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:11,227 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:11,228 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:11,333 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:11,336 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:11,448 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:11,448 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:11,568 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:11,569 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:11,666 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:11,666 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:11,802 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:11,802 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:11,913 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:11,914 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:12,057 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:12,058 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:12,236 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:12,238 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:12,333 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:12,335 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:12,438 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:12,439 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:12,529 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:12,530 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:12,654 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:12,656 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:12,849 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:12,851 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:49,025 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:49,026 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:50,013 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:50,014 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:51,018 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:51,019 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:52,019 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:52,020 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:53,024 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:53,025 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:54,026 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:54,026 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:55,031 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:55,032 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:05:56,030 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:05:56,031 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:06:10,014 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:06:10,015 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:06:10,207 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:06:10,208 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:06:10,410 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:06:10,411 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:06:10,610 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:06:10,611 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:06:10,813 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:06:10,818 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:06:11,017 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:06:11,018 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:06:11,219 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:06:11,221 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:06:11,420 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:06:11,420 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:06:11,621 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:06:11,625 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:06:11,822 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:06:11,831 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:06:48,944 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:06:48,945 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:06:49,040 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:06:49,041 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:06:49,141 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:06:49,144 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:06:49,243 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:06:49,244 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:06:49,344 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:06:49,344 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:06:49,449 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:06:49,450 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:06:49,549 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:06:49,551 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:06:49,651 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:06:49,654 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:06:49,756 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:06:49,757 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:06:49,862 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:06:49,870 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:08:05,211 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:08:05,212 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:09:13,429 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:09:13,432 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:09:13,447 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:09:13,451 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:09:13,458 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:09:13,460 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:09:13,467 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:09:13,467 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:09:13,481 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:09:13,481 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:09:13,496 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:09:13,497 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:09:13,503 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:09:13,504 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:09:13,514 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:09:13,515 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:09:13,526 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:09:13,527 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:09:13,536 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:09:13,537 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:09:51,028 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:09:51,029 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:09:51,040 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:09:51,041 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:09:51,044 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:09:51,045 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:09:51,048 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:09:51,049 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:09:51,061 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:09:51,062 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:09:51,065 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:09:51,066 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:09:51,069 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:09:51,071 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:09:51,085 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:09:51,086 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:09:51,090 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:09:51,091 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:09:51,095 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:09:51,096 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:11:09,276 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:11:09,278 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:11:09,287 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:11:09,288 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:11:09,293 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:11:09,293 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:11:09,299 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:11:09,300 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:11:09,304 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:11:09,306 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:11:09,310 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:11:09,311 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:11:09,323 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:11:09,324 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:11:09,328 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:11:09,329 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:11:09,332 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:11:09,334 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:11:09,337 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:11:09,338 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:16:35,289 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:16:35,291 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:16:35,347 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:16:35,348 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:16:35,352 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:16:35,352 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:16:35,355 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:16:35,355 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:16:35,359 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:16:35,360 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:16:35,362 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:16:35,363 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:16:35,365 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:16:35,366 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:16:35,374 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:16:35,375 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:16:35,378 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:16:35,379 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:16:35,384 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:16:35,384 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:17:32,674 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:17:32,675 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:17:32,692 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:17:32,695 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:17:32,702 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:17:32,705 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:17:32,713 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:17:32,716 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:17:32,722 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:17:32,724 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:17:32,728 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:17:32,733 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:17:32,740 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:17:32,741 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:17:32,744 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:17:32,745 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:17:32,748 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:17:32,750 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:17:32,754 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:17:32,755 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:18:02,420 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:18:02,422 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:18:35,194 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:18:35,196 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-05-28 19:19:15,328 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-05-28 19:19:15,329 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session

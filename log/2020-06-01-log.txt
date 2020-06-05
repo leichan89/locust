@@ -1,0 +1,10 @@
+2020-06-01 10:34:42,207 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-06-01 10:34:42,209 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-06-01 10:34:43,827 login_jjxt.py[line:43] ERROR: 登陆发生异常
+maximum recursion depth exceeded while calling a Python object
+2020-06-01 11:13:31,301 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-06-01 11:13:31,304 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-06-01 11:16:50,712 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-06-01 11:16:50,714 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
+2020-06-01 11:35:28,605 configer.py[line:21] DEBUG: 读取配置文件 /Users/chenlei/python-project/mylocust/config/envconf/reg.ini
+2020-06-01 11:35:28,608 login_jjxt.py[line:21] DEBUG: 开始登陆，获取教务后台session
