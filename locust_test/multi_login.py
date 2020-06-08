@@ -32,13 +32,13 @@ class LoginTest(HttpUser):
         cookies = session.cookies
 
         # 为每个用户的get请求固定cookies
-        self.client.get = functools.partial(self.client.get, cookies=cookies, verify=False)
+        self.client.get = functools.partial(self.client.get, cookies=cookies, catch_response=True, verify=False)
 
     @task(1)
     def get_login_user_info(self):
         # 批量登陆
         # 会捕获到异常信息
-        with self.client.get(url="/user/loginUser", catch_response=True) as response:
+        with self.client.get(url="/user/loginUser") as response:
             if response.status_code == 200:
                 rst = response.json()
                 if rst['code'] == 200:

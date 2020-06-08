@@ -19,8 +19,8 @@ def on_test_start(**kwargs):
 class JJXTTestSeq1(SequentialTaskSet):
 
     def on_start(self):
-        self.client.get = functools.partial(self.client.get, cookies=cookies, verify=False)
-        self.client.post = functools.partial(self.client.post, cookies=cookies, verify=False)
+        self.client.get = functools.partial(self.client.get, cookies=cookies, catch_response=True, verify=False)
+        self.client.post = functools.partial(self.client.post, cookies=cookies, catch_response=True, verify=False)
 
     @task(1)
     def create_folder(self):
@@ -31,12 +31,12 @@ class JJXTTestSeq1(SequentialTaskSet):
         """
         name = "my" + str(random.randint(1, 1000))
         params = {"folderName": f"{name}", "clazzId": 11383, "parentId": -1}
-        with self.client.post(url="/diligent/folder/create", json=params, catch_response=True) as response:
+        with self.client.post(url="/diligent/folder/create", json=params) as response:
             if response.status_code == 200:
                 folderid = response.json()['data']
                 if folderid:
                     params = {"clazzId": 11383, "folderIds": [folderid], "folderName": name}
-                    with self.client.post(url="/diligent/folder/delete", json=params, catch_response=True) as response2:
+                    with self.client.post(url="/diligent/folder/delete", json=params) as response2:
                         if response2.status_code == 200:
                             rst2 = response2.json()
                             if rst2['code'] == 200:
@@ -52,13 +52,13 @@ class JJXTTestSeq1(SequentialTaskSet):
 class JJXTTestSeq2(SequentialTaskSet):
 
     def on_start(self):
-        self.client.get = functools.partial(self.client.get, cookies=cookies, verify=False)
+        self.client.get = functools.partial(self.client.get, cookies=cookies, catch_response=True, verify=False)
 
     @task(1)
     def get_login_user_info(self):
         # 批量登陆
         # 会捕获到异常信息
-        with self.client.get(url="/user/loginUser", catch_response=True) as response:
+        with self.client.get(url="/user/loginUser") as response:
             if response.status_code == 200:
                 rst = response.json()
                 if rst['code'] == 200:
