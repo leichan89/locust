@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1938588-0bf4-4a15-b79e-38f275c4209e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/locust_test/jjxt_locust_sequntial.py" beforeDir="false" afterPath="$PROJECT_DIR$/locust_test/jjxt_locust_sequntial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/locust_test/multi_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/locust_test/multi_login.py" afterDir="false" />
-    </list>
+    <list default="true" id="e1938588-0bf4-4a15-b79e-38f275c4209e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,10 +10,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/locust_test/study_locust_media_count.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="167">
               <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
               <folding>
                 <element signature="e#25#40#0" expanded="true" />
@@ -26,11 +22,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/locust_test/study_locust_watch_progress.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+            <state relative-caret-position="240">
+              <caret line="16" column="53" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="53" />
               <folding>
                 <element signature="e#25#40#0" expanded="true" />
               </folding>
@@ -50,7 +46,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/locust_test/jjxt_locust_sequntial.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="642">
+            <state relative-caret-position="181">
               <caret line="54" column="97" selection-start-line="54" selection-start-column="97" selection-end-line="54" selection-end-column="97" />
               <folding>
                 <element signature="e#25#40#0" expanded="true" />
@@ -62,8 +58,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/locust_test/multi_login.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="34" column="97" selection-start-line="34" selection-start-column="97" selection-end-line="34" selection-end-column="97" />
+            <state relative-caret-position="220">
+              <caret line="29" column="40" lean-forward="true" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
               <folding>
                 <element signature="e#24#40#0" expanded="true" />
               </folding>
@@ -207,7 +203,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.study_locust_media_count">
+  <component name="RunManager" selected="Python.multi_login">
     <configuration name="baidu" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mylocust" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -320,8 +316,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.study_locust_media_count" />
         <item itemvalue="Python.multi_login" />
+        <item itemvalue="Python.study_locust_media_count" />
         <item itemvalue="Python.baidu" />
         <item itemvalue="Python.jjxt_locust_sequntial" />
         <item itemvalue="Python.study_locust_last_study_time" />
@@ -360,7 +356,7 @@
       <workItem from="1591353617610" duration="198000" />
       <workItem from="1591353819175" duration="17000" />
       <workItem from="1591586525688" duration="195000" />
-      <workItem from="1591604819504" duration="86000" />
+      <workItem from="1591604819504" duration="307000" />
     </task>
     <task id="LOCAL-00001" summary="修改">
       <created>1591353185434</created>
@@ -376,11 +372,18 @@
       <option name="project" value="LOCAL" />
       <updated>1591353668370</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="固定catch_response">
+      <created>1591604926469</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591604926469</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78218000" />
+    <option name="totallyTimeSpent" value="78439000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -400,7 +403,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.25135136" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.45135134" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.44189188" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -424,13 +427,40 @@
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改" />
+    <MESSAGE value="固定catch_response" />
+    <option name="LAST_COMMIT_MESSAGE" value="固定catch_response" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/mylocust$jjxt_locust_bak.coverage" NAME="jjxt_locust.bak Coverage Results" MODIFIED="1591176345011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/locust_test" />
-    <SUITE FILE_PATH="coverage/mylocust$multi_login.coverage" NAME="multi_login Coverage Results" MODIFIED="1591350871917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/locust_test" />
+    <SUITE FILE_PATH="coverage/mylocust$multi_login.coverage" NAME="multi_login Coverage Results" MODIFIED="1591605035358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/locust_test" />
     <SUITE FILE_PATH="coverage/mylocust$test.coverage" NAME="test Coverage Results" MODIFIED="1590740117252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/locust_test" />
     <SUITE FILE_PATH="coverage/mylocust$study_locust_watch_progress.coverage" NAME="study_locust_watch_progress Coverage Results" MODIFIED="1591242519380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/locust_test" />
     <SUITE FILE_PATH="coverage/mylocust$jjxt_locust.coverage" NAME="jjxt_locust Coverage Results" MODIFIED="1590830479873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/locust_test" />
@@ -662,26 +692,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/locust_test/jjxt_locust_sequntial.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="642">
-          <caret line="54" column="97" selection-start-line="54" selection-start-column="97" selection-end-line="54" selection-end-column="97" />
-          <folding>
-            <element signature="e#25#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/locust_test/multi_login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="34" column="97" selection-start-line="34" selection-start-column="97" selection-end-line="34" selection-end-column="97" />
-          <folding>
-            <element signature="e#24#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/locust_test/study_locust_last_study_time.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -692,20 +702,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/locust_test/study_locust_media_count.py">
+    <entry file="file://$PROJECT_DIR$/locust_test/study_locust_watch_progress.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        <state relative-caret-position="240">
+          <caret line="16" column="53" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="53" />
           <folding>
             <element signature="e#25#40#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/locust_test/study_locust_watch_progress.py">
+    <entry file="file://$PROJECT_DIR$/locust_test/jjxt_locust_sequntial.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+        <state relative-caret-position="181">
+          <caret line="54" column="97" selection-start-line="54" selection-start-column="97" selection-end-line="54" selection-end-column="97" />
+          <folding>
+            <element signature="e#25#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/locust_test/multi_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="29" column="40" lean-forward="true" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+          <folding>
+            <element signature="e#24#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/locust_test/study_locust_media_count.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
           <folding>
             <element signature="e#25#40#0" expanded="true" />
           </folding>
