@@ -30,7 +30,7 @@ class LoginTest(HttpUser):
         # 登陆获取session，登陆失败cookies也是会有数据的
         session = LoginJJXT(username=username, password=passwd).get_session()
         cookies = session.cookies
-
+        print(cookies)
         # 为每个用户的get请求固定cookies
         self.client.get = functools.partial(self.client.get, cookies=cookies, catch_response=True, verify=False)
 
@@ -41,6 +41,7 @@ class LoginTest(HttpUser):
         with self.client.get(url="/user/loginUser") as response:
             if response.status_code == 200:
                 rst = response.json()
+                print(rst)
                 if rst['code'] == 200:
                     response.success()
                 else:
