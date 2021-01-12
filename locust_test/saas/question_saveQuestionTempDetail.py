@@ -3,6 +3,7 @@
 import requests
 import json
 import queue
+import os
 from urllib.parse import quote, urlencode
 from common.tools import Tools
 from locust import HttpUser, task, between, events
@@ -13,15 +14,23 @@ t = Tools()
 @events.test_start.add_listener
 def on_test_start(**kwargs):
     global params, queueData
-    params = Tools().get_csv_info('paper_questionIds.csv')
+    workFlowIdCsv = '/Users/chenlei/python-project/mylocust/csv/workFlowId.csv'
+    os.remove(workFlowIdCsv)
+    for i in range(500):
+        with open(workFlowIdCsv, 'a') as f:
+            f.write(str(t.getWorkFLowId())+'\n')
+    params1 = t.get_csv_info('paper_questionIds.csv')
+    params2 = t.get_csv_info('workFlowId.csv')
     queueData = queue.Queue()
 
     # 参数放入队列
-    for param in params:
-        param = {
-            "questionId": param[0]
-        }
-        queueData.put_nowait(param)
+    for pa1 in params1:
+        for pa2 in params2:
+            param = {
+                "questionId": pa1[0],
+                "workFlowId": pa2[0]
+            }
+            queueData.put_nowait(param)
 
 class SaveQuestionTempDetail(HttpUser):
 
@@ -29,7 +38,12 @@ class SaveQuestionTempDetail(HttpUser):
 
     @task(1)
     def saveQuestionTempDetail(self):
-
+        """
+        服务：study-question-log
+        新增做题暂存记录，一个试卷存在1000个试题
+        question_temp_detail
+        :return:
+        """
         # 从队列获取参数
         csvparam = queueData.get()
         # 将获取的参数再放入队列尾部
@@ -48,7 +62,7 @@ class SaveQuestionTempDetail(HttpUser):
                     "paperId": "300000612392",
                     "questionId": csvparam['questionId'],
                     "terminalType": "mp",
-                    "workFlowId": 300000614864
+                    "workFlowId": csvparam['workFlowId']
                   }
                 ]
 
@@ -71,14 +85,16 @@ class SaveQuestionTempDetail(HttpUser):
             try:
                 if response.status_code == 200:
                     rst = response.json()
-                    print(rst)
+                    # print(rst)
                     if rst['code'] == 200:
                         response.success()
                     else:
                         response.failure(json.dumps(response.json()).encode('utf-8').decode('unicode_escape'))
                 else:
                     response.failure(json.dumps(response.json()).encode('utf-8').decode('unicode_escape'))
-            except:
+            except Exception as e:
+                print(response)
+                print(e)
                 response.failure("未知错误")
 
 
@@ -86,4 +102,4 @@ class SaveQuestionTempDetail(HttpUser):
 if __name__ == "__main__":
     import os
     file = __file__
-    os.system(f"locust -f {file} --host=http://open.test.zhiyong.highso.com.cn --web-host=127.0.0.1 --web-port=8008")
+    os.system(f"locust -f {file} --host=http://open.test.zhiyong.highso.com.cn --web-host=127.0.0.1 --web-port=8002")

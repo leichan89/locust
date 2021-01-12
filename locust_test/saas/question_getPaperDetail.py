@@ -13,7 +13,7 @@ t = Tools()
 @events.test_start.add_listener
 def on_test_start(**kwargs):
     global params, queueData
-    params = Tools().get_csv_info('listVisibleCourse.csv')
+    params = t.get_csv_info('paperIds.csv')
     queueData = queue.Queue()
 
     # 参数放入队列
@@ -29,6 +29,12 @@ class GetPaperDetail(HttpUser):
 
     @task(1)
     def getPaperDetail(self):
+        """
+        服务：study-question-service
+        日志：/data/applogs/study-question-service
+        查询不同试卷的详情（5000个试卷），
+        :return:
+        """
         # 从队列获取参数
         csvparam = queueData.get()
         # 将获取的参数再放入队列尾部
@@ -59,13 +65,16 @@ class GetPaperDetail(HttpUser):
             try:
                 if response.status_code == 200:
                     rst = response.json()
+                    # print(rst)
                     if rst['code'] == 200:
                         response.success()
                     else:
                         response.failure(json.dumps(response.json()).encode('utf-8').decode('unicode_escape'))
                 else:
                     response.failure(json.dumps(response.json()).encode('utf-8').decode('unicode_escape'))
-            except:
+            except Exception as e:
+                print(response)
+                print(e)
                 response.failure("未知错误")
 
 
@@ -73,4 +82,4 @@ class GetPaperDetail(HttpUser):
 if __name__ == "__main__":
     import os
     file = __file__
-    os.system(f"locust -f {file} --host=http://open.test.zhiyong.highso.com.cn --web-host=127.0.0.1 --web-port=8008")
+    os.system(f"locust -f {file} --host=http://open.test.zhiyong.highso.com.cn --web-host=127.0.0.1 --web-port=9001")

@@ -56,4 +56,4 @@ class BatchCreate(HttpUser):
 if __name__ == "__main__":
     import os
     file = __file__
-    os.system(f"locust -f {file} --host=http://open.test.zhiyong.highso.com.cn --web-host=127.0.0.1 --web-port=8011")
+    os.system(f"locust -f {file} --host=http://open.stage.zhiyong.highso.com.cn --web-host=127.0.0.1 --web-port=8011")

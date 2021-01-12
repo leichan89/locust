@@ -15,7 +15,12 @@ class MyCourse(HttpUser):
 
     @task(1)
     def myCourse(self):
-
+        """
+        服务： study-course-service
+        日志：/data/applog/study-course-service
+        前台-列表获取我的课程
+        :return:
+        """
         # query参数
         apiparam = {"method": "zhiyong.study.userCourse.myCourse"}
 
@@ -41,13 +46,16 @@ class MyCourse(HttpUser):
             try:
                 if response.status_code == 200:
                     rst = response.json()
+                    # print(rst)
                     if rst['code'] == 200:
                         response.success()
                     else:
                         response.failure(json.dumps(response.json()).encode('utf-8').decode('unicode_escape'))
                 else:
                     response.failure(json.dumps(response.json()).encode('utf-8').decode('unicode_escape'))
-            except:
+            except Exception as e:
+                print(response)
+                print(e)
                 response.failure("未知错误")
 
 
@@ -55,4 +63,4 @@ class MyCourse(HttpUser):
 if __name__ == "__main__":
     import os
     file = __file__
-    os.system(f"locust -f {file} --host=http://open.test.zhiyong.highso.com.cn --web-host=127.0.0.1 --web-port=8006")
+    os.system(f"locust -f {file} --host=http://open.test.zhiyong.highso.com.cn --web-host=127.0.0.1 --web-port=8004")
