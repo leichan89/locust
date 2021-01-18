@@ -16,7 +16,7 @@ def on_test_start(**kwargs):
     global params, queueData
     workFlowIdCsv = '/Users/chenlei/python-project/mylocust/csv/workFlowId.csv'
     os.remove(workFlowIdCsv)
-    for i in range(1000):
+    for i in range(500):
         with open(workFlowIdCsv, 'a') as f:
             f.write(str(t.getWorkFLowId())+'\n')
     params1 = t.get_csv_info('paper_questionIds.csv')

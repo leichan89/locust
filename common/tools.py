@@ -87,24 +87,24 @@ class Tools:
 
     def getMPHeaders(self):
         coookiList = []
-        cookie1 = {"cookie": "_alc=98f7f72de7076648bbe00d637f79f016939b7bd1988a5fa07df55cf0458120a3;_t=jfU3J0x2eu2S1OWgOaWbeAbVHPXlIOaU;t_session=3birZKpoFdsj74ZfjaR4JuQaGI95PRCnQir4GIOPSKYTnjmm1AodEg06zaSTUj77UTEyF5z9I6ORS7hgXskCdS8CZ7shFVF8PKiZmuwePTccYytlglsniASQAbGcu5nq45EuyxZ/vhI/Z9Ws2J62waR22OvwbJzAhaPk5T/dDVv0TUbag+Wp2JR5Wn4ONK28Gu+Ri/vEU2DVbFlqC1o+cA==;t_rtu=Y08Wvv+XfivohEfj0Agft9V1QIMSya8lls9+mMtQrUBmiqxcnXW9A5nxsM+4eeG8ysnNkASLPvkCqZx71c/eObb8Kg6tIVFlUj6jjs3GbiycuqJGIR89T5WyaYI7Ze6lJ6/vPIxonHAO/SQ0yJwOC7OO9Cht8QyTWCfQ2m/DiZe0koem5zY1HSbrYICAYvG5aV/GLa0qf4JUkXhCBr4HXWCdXWMQhrLk63rftDz/pIo=;_uid=KaUWxLy0pUAA9Uab;t_tenant=YqAwBLI0eJqxh8aw/6v2kQ==",
-                   "agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.02.1910120 MicroMessenger/7.0.4 Language/zh_CN webview/"}
-        cookie2 = {"cookie": "_alc=647dac86112e08aea4bfa081e59f8d481b16d63f01784ec176c0589b7d9efe30;_t=3zWzz32gvhC896ChdlN86eYFfTwV9S9u;t_session=HPVVEDHFB4KrUJJi7GEZEa516cSRq1AHu4ZuR4C7e589yr2tnTDPCUKMYtt3TnKJfR3KrDvTO5s6iPTGCOiKr5Qvx7bzFFgor8ajYk2sNeRSHCV9WCeqqty5v9lQpsTJmqso59E0TI8b2zJJ9oQ3G8WECFRjaayGEibxcirQkcnCp/Rpup1tLJh5qJUInJWMGu+Ri/vEU2DVbFlqC1o+cA==;t_rtu=ukM4HWRUix+11MGD6OkGPsIo3pwTAm26UidUtW7JeS4jCniyS01yWiB4bOixVeLeOZWI/CP543Zkvz53ZzB5S3LzXmEBjSvGq9qp0sZ4s/40x9GFpaDw+KMGz0RfIdifZ9lAU5wQ6HvMR3FTzx3DsCEtR4XVr8MXUgDgbWCG+odjVJMxqsMT3rVzU/XyT1KLVTMzZb/05b3wZ5otvgFeZejypt5mpHp97Lax4fRRaxo=;_uid=6PQugAZq2iHrM1e0;t_tenant=e6+3RVqqHSBH8c5Klv8dww==",
+        cookie1 = {"cookie": "_alc=79ae98d813bd1e530f87ddaae32cab6299b1e402d5e55692fa182481671939f4;_t=U2NUxtWfjF1aryFDk4fE6FAluYt6XqNT;_uid=5g9xePuVW6oaHRu3;t_tenant=ZyK2crFkBWBDIpdSl3qrIQ==;t_session=0Nj7vUqVfFCqZ8NTpbc6cMz2pw0+yIZGLMb1YvD9WW8JNXTaBC7al64WOTU0B/zePlOrDZZ6iGNbwCgiUDYPqVex4UnARvrm3MmbbBLS9be6Vheh/St9K9GyqvH9AQOs8Y13Y2CXoEPkBpcbXoHHaGsDKTkgRy59w+xvwsPacGx9EfcuMfYWcPAS/G/1xtdRGu+Ri/vEU2DVbFlqC1o+cA==;t_rtu=iQTj1lCdi3lMUk6tjmPSbCPylHhKW2tCKUG8DG8JwjZHdSiWwUezfbv+YbsYgmW96oTKErqMhDRsYrkn5YKMvU94oH/QRYwcaiY8+2VGM+K+XPnK0XQeWAlQO3gixcaDh9eAAYGd+wd8O94j4ccZQq2O0l2joGQyI3NSkuv/sB3OvLRP+BIeZ8fpCAXRH+a7sbsDxHffOjQPr+hARd0u0TJKZ3gjxP0MNwB+7rg+7rU=",
                    "agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2012120 MicroMessenger/7.0.4 Language/zh_CN webview/"}
+        cookie2 = {"cookie": "_alc=98f7f72de7076648bbe00d637f79f016939b7bd1988a5fa07df55cf0458120a3;_t=jfU3J0x2eu2S1OWgOaWbeAbVHPXlIOaU;t_session=3birZKpoFdsj74ZfjaR4JuQaGI95PRCnQir4GIOPSKYTnjmm1AodEg06zaSTUj77UTEyF5z9I6ORS7hgXskCdS8CZ7shFVF8PKiZmuwePTccYytlglsniASQAbGcu5nq45EuyxZ/vhI/Z9Ws2J62waR22OvwbJzAhaPk5T/dDVv0TUbag+Wp2JR5Wn4ONK28Gu+Ri/vEU2DVbFlqC1o+cA==;t_rtu=Y08Wvv+XfivohEfj0Agft9V1QIMSya8lls9+mMtQrUBmiqxcnXW9A5nxsM+4eeG8ysnNkASLPvkCqZx71c/eObb8Kg6tIVFlUj6jjs3GbiycuqJGIR89T5WyaYI7Ze6lJ6/vPIxonHAO/SQ0yJwOC7OO9Cht8QyTWCfQ2m/DiZe0koem5zY1HSbrYICAYvG5aV/GLa0qf4JUkXhCBr4HXWCdXWMQhrLk63rftDz/pIo=;_uid=KaUWxLy0pUAA9Uab;t_tenant=YqAwBLI0eJqxh8aw/6v2kQ==",
+                   "agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.02.1910120 MicroMessenger/7.0.4 Language/zh_CN webview/"}
         cookie3 = {"cookie": "_t=Y4uTAaiv7r1RyHefwOlgz2xcjwxIHyH7;_alc=717ec5a679b64ea05c7f9f3fdec1aaf5a277540cfb527357d3ed979580b07a65;_uid=5X5vw42AGhBkYdP7;t_rtu=MsNC4UAF130uiQiUu7nLx/iNfrFXUlALgYHVnh6t6+ZZM5v8R4EtHU5VHiImkRpTS5m9g+1AuDlu/bB8Xo505H7QZB8AsSrEfZiJjgjEmRWJTfbcnmPja+hDpuX++0KxO4qeIlXH+oQWivbpOLidllrq/vOj3wr4Nd11CiFAlGLg/L8U0/CCQZgD1tkz6Mp34/51A8igJuLr2kU1bHNZwRpW4cyCc/cOJygAxEicwUw=;t_session=mXsSK+bLDaRgux31FmJuI/HlTMaI+akx80vEcLSZgJ0R0Gm3l9X/J8RYjXfAT4koCTc5P8A/Q3zpbRmpahnZZ7cZirSCuFwc0WdtNZRoQj9QVjp2S4JZT3KW2wX0hTAg+pGmhXTadx3OANAl4sEzwHKD/pP0HeeeIBK0tQCcYeiOpFLgy/cdCt5Gf+aPcPJAGu+Ri/vEU2DVbFlqC1o+cA==;t_tenant=ML0cGrBFL1zfP+yJHoXY42Li8LGb1gX5rCRn2C+a08Y=",
                    "agent": "Mozilla/5.0 (Linux; Android 9; RVL-AL09 Build/HUAWEIRVL-AL09; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.62 XWEB/2693 MMWEBSDK/201201 Mobile Safari/537.36 MMWEBID/3907 MicroMessenger/7.0.22.1820(0x2700163B) Process/appbrand0 WeChat/arm64 Weixin NetType/WIFI Language/zh_CN ABI/arm64 MiniProgramEnv/android"}
         cookie4 = {"cookie": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2011120 MicroMessenger/7.0.4 Language/zh_CN webview/",
                    "agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2011120 MicroMessenger/7.0.4 Language/zh_CN webview/"}
         coookiList.append(cookie1)
-        coookiList.append(cookie2)
-        coookiList.append(cookie3)
+        # coookiList.append(cookie2)
+        # coookiList.append(cookie3)
         # coookiList.append(cookie4)
         cookie = random.choice(coookiList)
 
         return {"cookie": cookie["cookie"], "User-Agent": cookie["agent"], "content-type": "application/json"}
 
     def getPCHeaders(self):
-        cookie = "gr_user_id=1086bb05-4482-4bfa-9314-ac0ca28aa1b8; grwng_uid=caa7ea03-63fb-4ce8-94cc-dda2b715b47f; t_rtu=bQDWH/fuK39gS9h+UNiN7rHT4qdDEp6AkHNXiK1+nDPN0GmuNpcjRm1vWh+45nAz+FobhAIFASZy7QWeJlDE8/LNQ9Puw1mAHDXUcVH0Lz/0CTc+1lgHrjDkkjb1T548hVBk+bZE/YRyiPeZcsp3wFU7sMS2uMkQLkJpmdgifA2QBlNqfomfsnbtjTngV9r7zNtE++3dOedhRAwOtdX+fXPxYTtJne1+3BLyhU4fthw=; _uid=aSFbHlUvAQTAimF2; t_tenant=o5t4RbXHAnt3f3LK5bYBtQ==; SESSION=NjMxMzI2YzgtMjZkOC00MTcwLTkyNWYtYTc5OTJhZjhiZDkz; t_session=nyzeM+y+FMfGdBtrrvYO1vA9H1DKaVyf+APpshAN2CE0x0yGPDdtaVEWO5E16LuqwFcU7IG23rsLamYYk9f1PiDcVowijCNJEADrHBuaxKkYFNFmqXoftqfAXb2k81Jc6m7UMFof8HTVSPkkUY+UYFd7TppfgUV6/W70+US2DKRni3kH5q8shg9L+Wi+LY6/Gu+Ri/vEU2DVbFlqC1o+cA=="
+        cookie = "gr_user_id=1086bb05-4482-4bfa-9314-ac0ca28aa1b8; grwng_uid=caa7ea03-63fb-4ce8-94cc-dda2b715b47f; t_rtu=bQDWH/fuK39gS9h+UNiN7rHT4qdDEp6AkHNXiK1+nDPN0GmuNpcjRm1vWh+45nAz+FobhAIFASZy7QWeJlDE8/LNQ9Puw1mAHDXUcVH0Lz/0CTc+1lgHrjDkkjb1T548hVBk+bZE/YRyiPeZcsp3wFU7sMS2uMkQLkJpmdgifA2QBlNqfomfsnbtjTngV9r7zNtE++3dOedhRAwOtdX+fXPxYTtJne1+3BLyhU4fthw=; _uid=aSFbHlUvAQTAimF2; t_tenant=o5t4RbXHAnt3f3LK5bYBtQ==; t_session=nyzeM+y+FMfGdBtrrvYO1vA9H1DKaVyf+APpshAN2CE0x0yGPDdtaVEWO5E16LuqwFcU7IG23rsLamYYk9f1PiDcVowijCNJEADrHBuaxKkYFNFmqXoftqfAXb2k81Jc6m7UMFof8HTVSPkkUY+UYFd7TppfgUV6/W70+US2DKRni3kH5q8shg9L+Wi+LY6/Gu+Ri/vEU2DVbFlqC1o+cA==; SESSION=MDMxYmIyMTktMjNlOS00ZTkzLWI1MGUtM2VkZGFjNmY0MjBi"
         agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"
         return {"cookie": cookie, "User-Agent": agent, "content-type": "application/json"}
 
@@ -112,7 +112,7 @@ class Tools:
         '''
         生成指定日期时间戳，可以是之前的或者之后的日期，默认生成当前日期
         :param days: 天数
-        :param hours: 小时
+        :param hours: 小时15A372
         :param minutes: 分钟
         :param seconds: 秒
         :return:
