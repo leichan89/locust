@@ -41,8 +41,8 @@ class StudyTest(HttpUser):
         }
 
         url = "/watchlogQuery/getCompletedMediaCount"
-
-        with self.client.post(url=url, params=params, catch_response=True) as response:
+        # name参数：替换locust报告中的地址为指定名称
+        with self.client.post(url=url, params=params, name="我是真的", catch_response=True) as response:
             if response.status_code == 200:
                 rst = response.json()
                 if rst['code'] == 200:
